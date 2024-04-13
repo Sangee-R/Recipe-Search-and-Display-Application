@@ -3,7 +3,7 @@
 https://letem-cook.netlify.app/
 
 [Live Demo]
-(https://drive.google.com/file/d/1OjxfpS6OIdA9KxtQeif7hhr_0I4szP1X/view?usp=drive_link)
+(https://drive.google.com/file/d/1pGEj_HYlyIA22ALO16thGKhqn402LYK1/view?usp=sharing)
 
 
 
